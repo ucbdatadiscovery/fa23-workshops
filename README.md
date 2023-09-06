@@ -1,5 +1,13 @@
 # Fall 2023 Data Analysis Workshops
 
+## fa23-sql
+By: Kyaw Swar Ye Myint
+Workshop Date: 09/07/2023
+
+### UC Berkeley Students: [Datahub Link](<https://datahub.berkeley.edu/user/kyawswaryemyint/notebooks/fa23-workshops/fa23-SQL-Workshop-Notebook.ipynb>)
+
+### Non UC Berkeley Students: [![Binder Link](https://notebooks.gesis.org/binder/jupyter/user/ucbdatadiscovery-fa23-workshops-pwy3of6t/lab/tree/fa23-SQL-Workshop-Notebook.ipynb)
+
 ## fa23-intro-a-python-español
 By: Diego Sotomayor  
 Workshop Date: 09/05/2023
